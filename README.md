@@ -58,3 +58,6 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+##Author
+Developed by [김현호](LICENSE)
